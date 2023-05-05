@@ -1,5 +1,5 @@
 package prueba;
 
 public class conflictosPrueba {
-	public String paramPrueba="";
+	public String paramPrueba="RamaTrabajoPruebas";
 }
