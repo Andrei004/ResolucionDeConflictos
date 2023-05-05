@@ -2,8 +2,9 @@
  * 
  */
 /**
- * @author AndreiDaniliuc-Alumn
+ * @author AndreiDaniliuc-Alumn -> modificado
  *
  */
 module Conflictos {
+	
 }
