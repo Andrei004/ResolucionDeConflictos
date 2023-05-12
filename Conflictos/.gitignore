@@ -10,3 +10,8 @@ hola.txt
 /*hola.txt
 dgsdghsd
 /*.txt
+*.txt*
+**/temp
+!hola.txt
+#20
+/*.txt
