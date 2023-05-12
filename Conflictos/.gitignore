@@ -4,7 +4,7 @@ hola.txt
 /hola
 /holalá.txt/
 *.txt*
-**hola.txt**
-!hola.txt!
-#hola.txt#
+**/temp
+!hola.txt
+#20
 /*.txt
